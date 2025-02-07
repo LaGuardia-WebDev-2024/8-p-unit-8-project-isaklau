@@ -13,6 +13,8 @@ setup = function() {
     drawBubble(125, 275); 
     
     drawJelly (340, 140);
+    drawJelly (370, 120);
+    drawJelly (400, 160);
     
 };
 
